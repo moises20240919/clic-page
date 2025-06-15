@@ -1,2 +1,2 @@
 # clic-page
-projeto site da clic aprendendo 
+projeto site da clic iniciando
